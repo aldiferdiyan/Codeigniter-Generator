@@ -1,0 +1,11 @@
+.navigation-bar a{
+    margin: 0px 10px;
+    display: block;
+}
+.navigation-bar{
+    padding: 0px 10px;
+}
+.fluid{
+    padding: 0px 15px 0px 0px;
+    margin-top:60px;
+}
